@@ -33,3 +33,16 @@ Thomas High School Excluded.
 ![Top 5 (2)](https://user-images.githubusercontent.com/85714314/126093252-119381df-eb77-4d9c-a199-3f0a2d8b22e7.png)
 
 As portrayed in the above, by replacing the ninth grader's math and reading scores, Thomas High School's performance was significantly affected resulting in the school being dropped from the top five schools. Thomas High School ended up being eighth school based on performance.
+
+
+### How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade - The math and reading scores were not affected.
+
+- Scores by school spending - The percent passing math decreased from 73% to 67%. The percent passing reading decreased from 84% to 77%. The overall passing percentage decreased from 63% to 56%. 
+  
+- Scores by school size - The percent passing math decreased from 94% to 88%. The percent passing reading decreased from 97% to 91%. The overall passing percentage decreased from 91% to 85%.
+  
+- Scores by school type - The percent passing math decreased from 94% to 90%. The percent passing reading decreased from 97% to 93%. The overall passing percentage decreased from 90% to 87%. 
+
+## Summary
+By replacing the ninth grade scores with NaN, there were some significant changes to the data. For the spending range between $630 - $644 per student, perfomance was decreased by 7%. For medium sized schools, the overall perfomance was decreased by 6%. For charter schools, the overall performance decreased by 3%. Overall, for Thomas High School, replacing those scores decreased its position in comparison to other school's perfomance. 
